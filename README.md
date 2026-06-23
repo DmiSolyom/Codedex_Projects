@@ -1,6 +1,6 @@
 
-Projeto final do curso de introdução ao Python
-
+Final Project from Python Introduction curse
 "Create a Gif with Python"
+Using concepts of loop with for and the library imageio to group and animate the images
 
-Usando os conceitos de loop com for e a biblioteca imageio para agrupar e animar as imagens.
+Save the png files on teh same directory that CreateGif.py is on
